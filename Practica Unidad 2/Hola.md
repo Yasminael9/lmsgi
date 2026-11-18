@@ -1,12 +1,12 @@
-#Hola.html
+# Hola.html
 
 Yasmina El Masoudi
 
-##Enuciado
+## Enuciado
 
 Creamos un código html y lo abrimos con xampp desde un navegador web
 
-##Solución
+## Solución
 
 ```html
 
